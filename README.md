@@ -1,5 +1,5 @@
 
-# Sequence Extraction and BLAST Automation Script
+# Sequence Extraction and BLAST Automation Script -greo_balst_primer_amplicon.py-
 
 ## Overview
 This script automates the process of extracting sequences using specific primer IDs from transcriptome data, conducting BLAST searches with those sequences, and consolidating the results into a single CSV file. It is designed to streamline workflows in molecular biology and genomics research.
